@@ -1,13 +1,5 @@
 # 凯德云镜像
-nginx
-redis
-emqx/emqx:4.2.8
-emqx/emqx:latest
-kibana:7.13.2
-elasticsearch:7.13.2
-nodered/node-red:latest
-tdengine/tdengine:latest
-postgres:latest
-keking/kkfileview:latest
-node
-minio/minio:latest
+yisier1/nps
+snowdreamtech/frps
+mysql:5.7
+mysql:latest
