@@ -1,5 +1,5 @@
 # 凯德云镜像
-yisier1/nps
-snowdreamtech/frps
-mysql:5.7
-mysql:latest
+redis:5.0.4
+elasticsearch:7.17.10
+kibana:7.17.10
+postgres:11-alpine
