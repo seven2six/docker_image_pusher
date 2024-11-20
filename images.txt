@@ -1,2 +1,2 @@
 # 新增镜像
-niruix/sshwifty:latest
+nodered/node-red:4.1.2
