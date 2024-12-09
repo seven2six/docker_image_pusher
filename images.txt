@@ -1,3 +1,2 @@
 # 新增镜像
-nodered/node-red:4.0.5
-nodered/node-red:latest
+nginx:stable-alpine3.17-perl@sha256:dc45845fff8ed27095d32cffb22beec3ffb9e27ec05ddefea62308706bbcbb24
