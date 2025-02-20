@@ -1,2 +1,2 @@
 # 新增镜像
-microsoft/mssql-server-linux-arm64:2022-latest
+gitea:1.23.4
